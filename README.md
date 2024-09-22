@@ -8,3 +8,5 @@ Contiene lo siguiente:
 5. Juego "Gato"
 6. Banco/ usando clases, polimorfismo, constructores, punteros y Herencia.
 7. Juego TETRIX / Usando la libreria SFML, el objetivo del proyecto fue aprender a instalar la libreria, yo use UBUNTU para poder copilar el programa.
+
+PD. Profesor para su clase, cambiare todos mis archivos tambien a .hpp, ahora estan como .cpp pero lo corregiré.
